@@ -1,0 +1,16 @@
+C:\Users\stars\source\repos\MultipleFileLauncher\MultipleFileLauncher\bin\Debug\net10.0-windows\MultipleFileLauncher.exe
+C:\Users\stars\source\repos\MultipleFileLauncher\MultipleFileLauncher\bin\Debug\net10.0-windows\MultipleFileLauncher.deps.json
+C:\Users\stars\source\repos\MultipleFileLauncher\MultipleFileLauncher\bin\Debug\net10.0-windows\MultipleFileLauncher.runtimeconfig.json
+C:\Users\stars\source\repos\MultipleFileLauncher\MultipleFileLauncher\bin\Debug\net10.0-windows\MultipleFileLauncher.dll
+C:\Users\stars\source\repos\MultipleFileLauncher\MultipleFileLauncher\bin\Debug\net10.0-windows\MultipleFileLauncher.pdb
+C:\Users\stars\source\repos\MultipleFileLauncher\MultipleFileLauncher\obj\Debug\net10.0-windows\MultipleFileLauncher.Form1.resources
+C:\Users\stars\source\repos\MultipleFileLauncher\MultipleFileLauncher\obj\Debug\net10.0-windows\MultipleFileLauncher.csproj.GenerateResource.cache
+C:\Users\stars\source\repos\MultipleFileLauncher\MultipleFileLauncher\obj\Debug\net10.0-windows\MultipleFileLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stars\source\repos\MultipleFileLauncher\MultipleFileLauncher\obj\Debug\net10.0-windows\MultipleFileLauncher.AssemblyInfoInputs.cache
+C:\Users\stars\source\repos\MultipleFileLauncher\MultipleFileLauncher\obj\Debug\net10.0-windows\MultipleFileLauncher.AssemblyInfo.cs
+C:\Users\stars\source\repos\MultipleFileLauncher\MultipleFileLauncher\obj\Debug\net10.0-windows\MultipleFileLauncher.csproj.CoreCompileInputs.cache
+C:\Users\stars\source\repos\MultipleFileLauncher\MultipleFileLauncher\obj\Debug\net10.0-windows\MultipleFileLauncher.dll
+C:\Users\stars\source\repos\MultipleFileLauncher\MultipleFileLauncher\obj\Debug\net10.0-windows\refint\MultipleFileLauncher.dll
+C:\Users\stars\source\repos\MultipleFileLauncher\MultipleFileLauncher\obj\Debug\net10.0-windows\MultipleFileLauncher.pdb
+C:\Users\stars\source\repos\MultipleFileLauncher\MultipleFileLauncher\obj\Debug\net10.0-windows\MultipleFileLauncher.genruntimeconfig.cache
+C:\Users\stars\source\repos\MultipleFileLauncher\MultipleFileLauncher\obj\Debug\net10.0-windows\ref\MultipleFileLauncher.dll
