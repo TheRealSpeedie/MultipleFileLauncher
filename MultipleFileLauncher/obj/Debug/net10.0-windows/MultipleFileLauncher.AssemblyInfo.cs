@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultipleFileLauncher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2495eaf42a746f6c2ede4f2c067be21b0660f281")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultipleFileLauncher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultipleFileLauncher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
